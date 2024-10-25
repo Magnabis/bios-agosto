@@ -1,0 +1,61 @@
+.container {
+  background-color: #ddd0c8;
+  padding: 10px;
+}
+
+.Td-header {
+  color: #323232;
+  font-size: 2em;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#main {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#add-todo {
+  background-color: #323232;
+  color: #ddd0c8;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 10px;
+  /* animation: alternate-color 3s infinite;
+}
+@keyframes alternate-color {
+  0% {
+    color: #323232;
+    background-color: #fab88f;
+    border: #323232 solid 1px;
+    border-radius: 10px;
+    padding: 10px;
+
+  }
+  100% {
+    color: #ddd0c8;
+    background-color: #323232;
+    border: #323232 solid 1px;
+    border-radius: 10px;
+    padding: 10px;
+
+  }
+} */
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px;
+    background-color: #fab88f;
+    border: #323232 solid 1px;
+    border-radius: 10px;
+  padding: 10px;
+}
