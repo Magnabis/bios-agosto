@@ -11,8 +11,6 @@ function addTask() {
   }
 }
 
-
-
 taskInput.addEventListener('keydown', (event) => {
     if (event.key === 'Enter') {
         addTask();
